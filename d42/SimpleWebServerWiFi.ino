@@ -15,8 +15,8 @@
   WEP or WPA, change the WiFi.begin() call accordingly.
 
   Circuit:
-  * Board with NINA module (Arduino MKR WiFi 1010, MKR VIDOR 4000 and Uno WiFi Rev.2)
-  * LED attached to pin 9
+  * Uno R4 WiFi
+  * LED attached to pin 12
 
   created 25 Nov 2012
   by Tom Igoe
